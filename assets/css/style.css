@@ -13,7 +13,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 15px;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
@@ -44,9 +43,12 @@ h1.main-title {
     font-weight: 700;
     margin-bottom: 16px;
     font-size: 1.5rem;
+    line-height: 120%;
 }
 
 p.main-description {
     color: #68768C;
     font-size: 1rem;
+    line-height: 140%;
+    letter-spacing: 0.2px;
 }
